@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+
 # gyogy6 Anime Shadow Mask（免费版）
 
 [English](README.md) / [日本語](README.ja.md) / **简体中文** / [한국어](README.ko.md)
@@ -17,6 +19,7 @@
 | 文件 | 内容 |
 |---|---|
 | `gyogy6_anime_shadow_mask.sbsar` | 生成器本体 |
+| `docs/icon.png` | 说明书用图标图像（.sbsar 中也内置了相同的图标） |
 | `README.md` 等 | 本说明书（英语、日语、中文、韩语） |
 | `LICENSE.md` | 使用条款 |
 
@@ -34,7 +37,7 @@
    - 仅在当前项目中使用：**Current session** 或 **Project**
    - 在所有项目中使用：你自己的资源库
 5. 点击 **Import**。
-6. 资源架（Shelf）的 **Generators** 中出现 **gyogy6 Anime Shadow Mask** 即表示安装完成。
+6. 资源架（Shelf）的 **Generators** 中出现带有本页顶部同款图标的 **gyogy6 Anime Shadow Mask**，即表示安装完成。
 
 ## 4. 准备工作：烘焙网格贴图（每个项目一次）
 

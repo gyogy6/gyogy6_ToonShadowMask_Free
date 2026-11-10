@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+
 # gyogy6 Anime Shadow Mask (Free)
 
 **English** / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / [한국어](README.ko.md)
@@ -17,6 +19,7 @@ Just drop it into a layer mask.
 | File | Description |
 |---|---|
 | `gyogy6_anime_shadow_mask.sbsar` | The generator |
+| `docs/icon.png` | Icon image for this manual (the same icon is built into the .sbsar) |
 | `README.md` and others | This manual (English, Japanese, Chinese, Korean) |
 | `LICENSE.md` | Terms of use |
 
@@ -34,7 +37,7 @@ Just drop it into a layer mask.
    - For the current project only: **Current session** or **Project**
    - For all projects: your own library
 5. Click **Import**.
-6. Installation is complete when **gyogy6 Anime Shadow Mask** appears under **Generators** in the asset shelf.
+6. Installation is complete when **gyogy6 Anime Shadow Mask** appears under **Generators** in the asset shelf, with the same icon as at the top of this page.
 
 ## 4. Preparation: bake mesh maps (once per project)
 

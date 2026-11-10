@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+
 # gyogy6 Anime Shadow Mask (무료판)
 
 [English](README.md) / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / **한국어**
@@ -17,6 +19,7 @@ Substance 3D Painter용 제너레이터입니다.
 | 파일 | 내용 |
 |---|---|
 | `gyogy6_anime_shadow_mask.sbsar` | 제너레이터 본체 |
+| `docs/icon.png` | 설명서용 아이콘 이미지 (.sbsar에도 같은 아이콘이 들어 있습니다) |
 | `README.md` 외 | 이 설명서 (영어, 일본어, 중국어, 한국어) |
 | `LICENSE.md` | 이용약관 |
 
@@ -34,7 +37,7 @@ Substance 3D Painter용 제너레이터입니다.
    - 현재 프로젝트에서만 사용할 경우: **Current session** 또는 **Project**
    - 모든 프로젝트에서 사용할 경우: 자신의 라이브러리
 5. **Import**를 누릅니다.
-6. 에셋 셸프의 **Generators**에 **gyogy6 Anime Shadow Mask**가 표시되면 완료입니다.
+6. 에셋 셸프의 **Generators**에 이 페이지 상단과 같은 아이콘의 **gyogy6 Anime Shadow Mask**가 표시되면 완료입니다.
 
 ## 4. 사전 준비: 메시 맵 베이크 (프로젝트마다 1회)
 
