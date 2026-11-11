@@ -22,7 +22,12 @@ Just drop it into a layer mask.
 
 From left: base color only, the black-and-white mask this generator creates (white = shadow), and the result of a Multiply shadow layer using that mask.
 
-> **Note: these images are illustrations.** They are not screenshots or output of Substance 3D Painter; they were made for this manual by reproducing the behavior of the parameters described here. Actual results depend on your model, baked maps and settings. The control panel on the right and the black outline on the model were also drawn for illustration and are not features of this generator.
+<details>
+<summary><b>Note: these images are illustrations.</b></summary>
+
+They are not screenshots or output of Substance 3D Painter; they were made for this manual by reproducing the behavior of the parameters described here. Actual results depend on your model, baked maps and settings. The control panel on the right and the black outline on the model were also drawn for illustration and are not features of this generator.
+
+</details>
 
 ---
 
