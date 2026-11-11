@@ -1,11 +1,11 @@
-<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Toon Shadow Mask icon" width="160"></p>
 
-# gyogy6 Anime Shadow Mask（無料版）
+# gyogy6 Toon Shadow Mask（無料版）
 
 [English](README.md) / **日本語** / [简体中文](README.zh-CN.md) / [한국어](README.ko.md)
 
 Substance 3D Painter 用のジェネレーターです。
-光の向きを指定すると、アニメ調（セル調）のくっきりした影の範囲を、白黒のマスクとして作ります。
+光の向きを指定すると、トゥーン調（セル調）のくっきりした影の範囲を、白黒のマスクとして作ります。
 レイヤーのマスクに入れるだけで使えます。
 
 - バージョン：1.0.0
@@ -18,7 +18,7 @@ Substance 3D Painter 用のジェネレーターです。
 
 | ファイル | 内容 |
 |---|---|
-| `gyogy6_anime_shadow_mask.sbsar` | ジェネレーター本体 |
+| `gyogy6_toon_shadow_mask.sbsar` | ジェネレーター本体 |
 | `docs/icon.png` | アイコン画像（説明書用。.sbsar にも同じアイコンが入っています） |
 | `README.md` ほか | この説明書（英語・日本語・中国語・韓国語） |
 | `LICENSE.md` | 利用規約 |
@@ -31,13 +31,13 @@ Substance 3D Painter 用のジェネレーターです。
 ## 3. インストール
 
 1. Painter の上部メニューから **File → Import resources** を開きます。
-2. **Add resources** を押して `gyogy6_anime_shadow_mask.sbsar` を選びます。
+2. **Add resources** を押して `gyogy6_toon_shadow_mask.sbsar` を選びます。
 3. 一覧に追加されたファイルの種類を **generator** にします。
 4. 取り込み先を選びます。
    - 今のプロジェクトだけで使う場合：**Current session** または **Project**
    - すべてのプロジェクトで使う場合：自分用のライブラリ
 5. **Import** を押します。
-6. アセット画面（シェルフ）の **Generators** に、このページ上部と同じアイコンの **gyogy6 Anime Shadow Mask** が表示されれば完了です。
+6. アセット画面（シェルフ）の **Generators** に、このページ上部と同じアイコンの **gyogy6 Toon Shadow Mask** が表示されれば完了です。
 
 ## 4. 事前準備：メッシュマップのベイク（プロジェクトごとに 1 回）
 
@@ -63,7 +63,7 @@ Substance 3D Painter 用のジェネレーターです。
 
 1. レイヤーを右クリックし、**Add black mask** を選びます。
 2. マスクを右クリックし、**Add generator** を選びます。
-3. ジェネレーターの選択欄で **gyogy6 Anime Shadow Mask** を選びます。
+3. ジェネレーターの選択欄で **gyogy6 Toon Shadow Mask** を選びます。
 4. 影の部分にだけ色が乗れば成功です。
 
 ### 5-3. パラメーター
@@ -87,7 +87,7 @@ Substance 3D Painter 用のジェネレーターです。
 
 | 症状 | 確認すること |
 |---|---|
-| 一覧に gyogy6 Anime Shadow Mask が出ない | 取り込むときに種類を **generator** にしたか確認してください。違う種類で取り込んだ場合は、削除してから取り込み直してください。 |
+| 一覧に gyogy6 Toon Shadow Mask が出ない | 取り込むときに種類を **generator** にしたか確認してください。違う種類で取り込んだ場合は、削除してから取り込み直してください。 |
 | 影が真っ黒、または何も出ない | メッシュマップのベイク（4 章）が終わっているか確認してください。特に **World space normal** が必要です。 |
 | 光の向きが思った方向と違う | Light Horizontal / Light Vertical を調整してください。 |
 

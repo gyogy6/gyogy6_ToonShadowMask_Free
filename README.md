@@ -1,11 +1,11 @@
-<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Toon Shadow Mask icon" width="160"></p>
 
-# gyogy6 Anime Shadow Mask (Free)
+# gyogy6 Toon Shadow Mask (Free)
 
 **English** / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / [한국어](README.ko.md)
 
 A generator for Substance 3D Painter.
-Set the light direction, and it creates a crisp anime-style (cel-shaded) shadow area as a black-and-white mask.
+Set the light direction, and it creates a crisp toon-style (cel-shaded) shadow area as a black-and-white mask.
 Just drop it into a layer mask.
 
 - Version: 1.0.0
@@ -18,7 +18,7 @@ Just drop it into a layer mask.
 
 | File | Description |
 |---|---|
-| `gyogy6_anime_shadow_mask.sbsar` | The generator |
+| `gyogy6_toon_shadow_mask.sbsar` | The generator |
 | `docs/icon.png` | Icon image for this manual (the same icon is built into the .sbsar) |
 | `README.md` and others | This manual (English, Japanese, Chinese, Korean) |
 | `LICENSE.md` | Terms of use |
@@ -31,13 +31,13 @@ Just drop it into a layer mask.
 ## 3. Installation
 
 1. In Painter, open **File → Import resources**.
-2. Click **Add resources** and select `gyogy6_anime_shadow_mask.sbsar`.
+2. Click **Add resources** and select `gyogy6_toon_shadow_mask.sbsar`.
 3. Set the type of the added file to **generator**.
 4. Choose where to import it:
    - For the current project only: **Current session** or **Project**
    - For all projects: your own library
 5. Click **Import**.
-6. Installation is complete when **gyogy6 Anime Shadow Mask** appears under **Generators** in the asset shelf, with the same icon as at the top of this page.
+6. Installation is complete when **gyogy6 Toon Shadow Mask** appears under **Generators** in the asset shelf, with the same icon as at the top of this page.
 
 ## 4. Preparation: bake mesh maps (once per project)
 
@@ -56,14 +56,14 @@ This generator uses the mesh maps baked by Painter.
 1. In the Layers panel, click **Add fill layer**.
 2. On the new layer, **turn off every channel except Base Color**.
 3. Set **Base Color** to the shadow color.
-   A slightly tinted color (reddish for skin, bluish purple for clothes, etc.) gives cleaner anime shadows than plain gray.
+   A slightly tinted color (reddish for skin, bluish purple for clothes, etc.) gives cleaner toon shadows than plain gray.
 4. Set the blend mode to **Multiply**.
 
 ### 5-2. Add the generator to the mask
 
 1. Right-click the layer and choose **Add black mask**.
 2. Right-click the mask and choose **Add generator**.
-3. In the generator selector, choose **gyogy6 Anime Shadow Mask**.
+3. In the generator selector, choose **gyogy6 Toon Shadow Mask**.
 4. If the color appears only on the shadow areas, it works.
 
 ### 5-3. Parameters
@@ -87,7 +87,7 @@ This generator uses the mesh maps baked by Painter.
 
 | Problem | What to check |
 |---|---|
-| gyogy6 Anime Shadow Mask is not in the list | Make sure you set the type to **generator** when importing. If you imported it as another type, delete it and import it again. |
+| gyogy6 Toon Shadow Mask is not in the list | Make sure you set the type to **generator** when importing. If you imported it as another type, delete it and import it again. |
 | Everything is black, or nothing appears | Make sure the mesh maps are baked (section 4). **World space normal** is required. |
 | The light comes from an unexpected direction | Adjust Light Horizontal / Light Vertical. |
 

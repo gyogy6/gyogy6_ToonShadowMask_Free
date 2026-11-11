@@ -1,6 +1,6 @@
-<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Toon Shadow Mask icon" width="160"></p>
 
-# gyogy6 Anime Shadow Mask (무료판)
+# gyogy6 Toon Shadow Mask (무료판)
 
 [English](README.md) / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / **한국어**
 
@@ -18,7 +18,7 @@ Substance 3D Painter용 제너레이터입니다.
 
 | 파일 | 내용 |
 |---|---|
-| `gyogy6_anime_shadow_mask.sbsar` | 제너레이터 본체 |
+| `gyogy6_toon_shadow_mask.sbsar` | 제너레이터 본체 |
 | `docs/icon.png` | 설명서용 아이콘 이미지 (.sbsar에도 같은 아이콘이 들어 있습니다) |
 | `README.md` 외 | 이 설명서 (영어, 일본어, 중국어, 한국어) |
 | `LICENSE.md` | 이용약관 |
@@ -31,13 +31,13 @@ Substance 3D Painter용 제너레이터입니다.
 ## 3. 설치
 
 1. Painter 상단 메뉴에서 **File → Import resources**를 엽니다.
-2. **Add resources**를 눌러 `gyogy6_anime_shadow_mask.sbsar`를 선택합니다.
+2. **Add resources**를 눌러 `gyogy6_toon_shadow_mask.sbsar`를 선택합니다.
 3. 목록에 추가된 파일의 종류를 **generator**로 설정합니다.
 4. 가져올 위치를 선택합니다.
    - 현재 프로젝트에서만 사용할 경우: **Current session** 또는 **Project**
    - 모든 프로젝트에서 사용할 경우: 자신의 라이브러리
 5. **Import**를 누릅니다.
-6. 에셋 셸프의 **Generators**에 이 페이지 상단과 같은 아이콘의 **gyogy6 Anime Shadow Mask**가 표시되면 완료입니다.
+6. 에셋 셸프의 **Generators**에 이 페이지 상단과 같은 아이콘의 **gyogy6 Toon Shadow Mask**가 표시되면 완료입니다.
 
 ## 4. 사전 준비: 메시 맵 베이크 (프로젝트마다 1회)
 
@@ -63,7 +63,7 @@ Substance 3D Painter용 제너레이터입니다.
 
 1. 레이어를 우클릭하고 **Add black mask**를 선택합니다.
 2. 마스크를 우클릭하고 **Add generator**를 선택합니다.
-3. 제너레이터 선택란에서 **gyogy6 Anime Shadow Mask**를 선택합니다.
+3. 제너레이터 선택란에서 **gyogy6 Toon Shadow Mask**를 선택합니다.
 4. 그림자 부분에만 색이 올라가면 성공입니다.
 
 ### 5-3. 파라미터
@@ -87,7 +87,7 @@ Substance 3D Painter용 제너레이터입니다.
 
 | 증상 | 확인할 사항 |
 |---|---|
-| 목록에 gyogy6 Anime Shadow Mask가 나오지 않음 | 가져올 때 종류를 **generator**로 설정했는지 확인하세요. 다른 종류로 가져온 경우 삭제한 뒤 다시 가져오세요. |
+| 목록에 gyogy6 Toon Shadow Mask가 나오지 않음 | 가져올 때 종류를 **generator**로 설정했는지 확인하세요. 다른 종류로 가져온 경우 삭제한 뒤 다시 가져오세요. |
 | 전체가 검게 되거나 아무것도 나오지 않음 | 메시 맵 베이크(4장)가 끝났는지 확인하세요. **World space normal**이 필수입니다. |
 | 빛의 방향이 예상과 다름 | Light Horizontal / Light Vertical을 조정하세요. |
 

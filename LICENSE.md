@@ -1,4 +1,4 @@
-# gyogy6 Anime Shadow Mask (Free) — LICENSE
+# gyogy6 Toon Shadow Mask (Free) — LICENSE
 
 This file contains the **Product Supplement** for this product, followed by the **gyogy6 Tool Terms of Use** (common terms) in four languages.
 The Japanese version is the official text. Other languages are translations for reference.
@@ -7,12 +7,12 @@ The Japanese version is the official text. Other languages are translations for 
 
 ## 製品別補足（日本語・正本）
 
-対象製品：gyogy6 Anime Shadow Mask（無料版） v1.0.0
+対象製品：gyogy6 Toon Shadow Mask（無料版） v1.0.0
 適用する共通規約：gyogy6 ツール利用規約 バージョン 1.1
 
-1. **対象ファイル**：`gyogy6_anime_shadow_mask.sbsar`、README 一式、本書。
+1. **対象ファイル**：`gyogy6_toon_shadow_mask.sbsar`、README 一式、本書。
 2. **価格と利用範囲**：無料です。利用人数・台数の制限はありません。個人・法人、商用・非商用を問わず利用できます。
-3. **成果物**：商用利用できます。クレジット表記は任意です。表記する場合の例：`Shadow mask: gyogy6 Anime Shadow Mask`
+3. **成果物**：商用利用できます。クレジット表記は任意です。表記する場合の例：`Shadow mask: gyogy6 Toon Shadow Mask`
 4. **公式配布場所**：GitHub の gyogy6 アカウント（https://github.com/gyogy6 ）、および権利者が今後告知する gyogy6 の BOOTH ショップ。
 5. **再配布の禁止**：本製品を公式配布場所以外で配布することはできません。他の人に紹介するときは、ファイルではなく公式配布場所の URL を共有してください。
 6. **GitHub のフォーク**：GitHub の利用規約により、GitHub 上での閲覧とフォークは可能です。ただし、フォークしても本製品の利用や配布の許諾は増えません。フォーク先のリポジトリから本製品を入手・利用・配布することはできません。
@@ -23,12 +23,12 @@ The Japanese version is the official text. Other languages are translations for 
 
 ## Product Supplement (English)
 
-Product: gyogy6 Anime Shadow Mask (Free) v1.0.0
+Product: gyogy6 Toon Shadow Mask (Free) v1.0.0
 Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 
-1. **Covered files**: `gyogy6_anime_shadow_mask.sbsar`, the README files and this document.
+1. **Covered files**: `gyogy6_toon_shadow_mask.sbsar`, the README files and this document.
 2. **Price and scope**: Free of charge. No limit on the number of users or machines. May be used by individuals and legal entities, for commercial and non-commercial purposes.
-3. **Output**: Commercial use is allowed. Credit is optional. Example credit: `Shadow mask: gyogy6 Anime Shadow Mask`
+3. **Output**: Commercial use is allowed. Credit is optional. Example credit: `Shadow mask: gyogy6 Toon Shadow Mask`
 4. **Official Distribution Channels**: the gyogy6 account on GitHub (https://github.com/gyogy6 ) and the gyogy6 BOOTH shop to be announced by the Licensor.
 5. **No redistribution**: This product must not be distributed anywhere other than the Official Distribution Channels. To tell others about it, share the URL of an Official Distribution Channel, not the file.
 6. **GitHub forks**: Under the GitHub Terms of Service, the repository can be viewed and forked on GitHub. A fork does not grant any additional right to use or distribute this product. Do not obtain, use or distribute this product from a forked repository.
@@ -39,12 +39,12 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 
 ## 产品补充条款（简体中文）
 
-适用产品：gyogy6 Anime Shadow Mask（免费版）v1.0.0
+适用产品：gyogy6 Toon Shadow Mask（免费版）v1.0.0
 适用的通用条款：gyogy6 工具使用条款 版本 1.1
 
-1. **适用文件**：`gyogy6_anime_shadow_mask.sbsar`、README 文件及本文件。
+1. **适用文件**：`gyogy6_toon_shadow_mask.sbsar`、README 文件及本文件。
 2. **价格与使用范围**：免费。不限使用人数和设备数量。个人和法人均可使用，商业及非商业用途均可。
-3. **成果物**：可用于商业用途。署名为可选项。署名示例：`Shadow mask: gyogy6 Anime Shadow Mask`
+3. **成果物**：可用于商业用途。署名为可选项。署名示例：`Shadow mask: gyogy6 Toon Shadow Mask`
 4. **官方发布渠道**：GitHub 上的 gyogy6 账号（https://github.com/gyogy6 ），以及权利人今后公布的 gyogy6 BOOTH 商店。
 5. **禁止再发布**：不得在官方发布渠道以外发布本产品。向他人介绍时，请分享官方发布渠道的 URL，而不是文件本身。
 6. **GitHub 分叉（Fork）**：根据 GitHub 服务条款，可在 GitHub 上浏览和分叉本仓库。但分叉不会授予任何额外的使用或发布权利。不得从分叉的仓库获取、使用或发布本产品。
@@ -55,12 +55,12 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 
 ## 제품별 보충 조항（한국어）
 
-대상 제품: gyogy6 Anime Shadow Mask (무료판) v1.0.0
+대상 제품: gyogy6 Toon Shadow Mask (무료판) v1.0.0
 적용되는 공통 약관: gyogy6 툴 이용약관 버전 1.1
 
-1. **대상 파일**: `gyogy6_anime_shadow_mask.sbsar`, README 파일 및 본 문서.
+1. **대상 파일**: `gyogy6_toon_shadow_mask.sbsar`, README 파일 및 본 문서.
 2. **가격 및 이용 범위**: 무료입니다. 이용 인원 및 기기 수의 제한은 없습니다. 개인과 법인, 상업적·비상업적 용도를 불문하고 이용할 수 있습니다.
-3. **결과물**: 상업적으로 이용할 수 있습니다. 크레디트 표기는 선택 사항입니다. 표기 예: `Shadow mask: gyogy6 Anime Shadow Mask`
+3. **결과물**: 상업적으로 이용할 수 있습니다. 크레디트 표기는 선택 사항입니다. 표기 예: `Shadow mask: gyogy6 Toon Shadow Mask`
 4. **공식 배포처**: GitHub의 gyogy6 계정(https://github.com/gyogy6 ) 및 권리자가 추후 공지하는 gyogy6 BOOTH 숍.
 5. **재배포 금지**: 본 제품을 공식 배포처 이외의 곳에서 배포할 수 없습니다. 다른 사람에게 소개할 때는 파일이 아니라 공식 배포처의 URL을 공유해 주십시오.
 6. **GitHub 포크**: GitHub 이용약관에 따라 GitHub에서 저장소를 열람하고 포크할 수 있습니다. 단, 포크를 해도 본 제품의 이용 또는 배포에 관한 권리가 추가로 부여되지 않습니다. 포크된 저장소에서 본 제품을 입수, 이용, 배포할 수 없습니다.

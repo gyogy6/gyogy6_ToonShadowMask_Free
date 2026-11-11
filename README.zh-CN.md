@@ -1,6 +1,6 @@
-<p align="center"><img src="docs/icon.png" alt="gyogy6 Anime Shadow Mask icon" width="160"></p>
+<p align="center"><img src="docs/icon.png" alt="gyogy6 Toon Shadow Mask icon" width="160"></p>
 
-# gyogy6 Anime Shadow Mask（免费版）
+# gyogy6 Toon Shadow Mask（免费版）
 
 [English](README.md) / [日本語](README.ja.md) / **简体中文** / [한국어](README.ko.md)
 
@@ -18,7 +18,7 @@
 
 | 文件 | 内容 |
 |---|---|
-| `gyogy6_anime_shadow_mask.sbsar` | 生成器本体 |
+| `gyogy6_toon_shadow_mask.sbsar` | 生成器本体 |
 | `docs/icon.png` | 说明书用图标图像（.sbsar 中也内置了相同的图标） |
 | `README.md` 等 | 本说明书（英语、日语、中文、韩语） |
 | `LICENSE.md` | 使用条款 |
@@ -31,13 +31,13 @@
 ## 3. 安装
 
 1. 在 Painter 的菜单中打开 **File → Import resources**。
-2. 点击 **Add resources**，选择 `gyogy6_anime_shadow_mask.sbsar`。
+2. 点击 **Add resources**，选择 `gyogy6_toon_shadow_mask.sbsar`。
 3. 将添加的文件类型设为 **generator**。
 4. 选择导入位置：
    - 仅在当前项目中使用：**Current session** 或 **Project**
    - 在所有项目中使用：你自己的资源库
 5. 点击 **Import**。
-6. 资源架（Shelf）的 **Generators** 中出现带有本页顶部同款图标的 **gyogy6 Anime Shadow Mask**，即表示安装完成。
+6. 资源架（Shelf）的 **Generators** 中出现带有本页顶部同款图标的 **gyogy6 Toon Shadow Mask**，即表示安装完成。
 
 ## 4. 准备工作：烘焙网格贴图（每个项目一次）
 
@@ -63,7 +63,7 @@
 
 1. 右键点击图层，选择 **Add black mask**。
 2. 右键点击遮罩，选择 **Add generator**。
-3. 在生成器的选择栏中选择 **gyogy6 Anime Shadow Mask**。
+3. 在生成器的选择栏中选择 **gyogy6 Toon Shadow Mask**。
 4. 如果颜色只出现在阴影部分，即表示成功。
 
 ### 5-3. 参数
@@ -87,7 +87,7 @@
 
 | 现象 | 检查事项 |
 |---|---|
-| 列表中没有 gyogy6 Anime Shadow Mask | 请确认导入时类型设为了 **generator**。如果以其他类型导入，请删除后重新导入。 |
+| 列表中没有 gyogy6 Toon Shadow Mask | 请确认导入时类型设为了 **generator**。如果以其他类型导入，请删除后重新导入。 |
 | 全黑或没有任何显示 | 请确认网格贴图已烘焙完成（第 4 节）。**World space normal** 是必需的。 |
 | 光照方向与预期不同 | 请调整 Light Horizontal / Light Vertical。 |
 
