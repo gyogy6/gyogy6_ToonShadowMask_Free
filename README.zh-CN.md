@@ -14,12 +14,25 @@
 
 ---
 
+## 效果示意
+
+<p align="center"><img src="docs/demo.gif" alt="调整参数时阴影的变化（示意图）" width="640"></p>
+
+<p align="center"><img src="docs/breakdown.png" alt="基础颜色 → 阴影遮罩 → 正片叠底结果（示意图）" width="100%"></p>
+
+从左到右：仅基础颜色、本生成器生成的黑白遮罩（白色为阴影）、使用该遮罩的阴影图层以正片叠底（Multiply）叠加后的结果。
+
+> **※ 图片仅为示意。** 这些图片并非 Substance 3D Painter 的实际界面或输出，而是根据本说明书中参数的效果再现制作的说明用图片。实际效果会因模型、烘焙结果和设置而不同。右侧的操作面板和模型的黑色轮廓线也是为示意而绘制的，并非本生成器的功能。
+
+---
+
 ## 1. 包含文件
 
 | 文件 | 内容 |
 |---|---|
 | `gyogy6_toon_shadow_mask.sbsar` | 生成器本体 |
 | `docs/icon.png` | 说明书用图标图像（.sbsar 中也内置了相同的图标） |
+| `docs/demo.gif`、`docs/breakdown.png`、`docs/layers.png` | 说明用示意图片 |
 | `README.md` 等 | 本说明书（英语、日语、中文、韩语） |
 | `LICENSE.md` | 使用条款 |
 
@@ -82,6 +95,10 @@
 - **添加更深的第二层阴影：** 按相同步骤再创建一个图层，并将 **Shadow Amount 设得较小（0.1–0.3）**。
 - **手动修正：** 在遮罩中于生成器上方添加 **Paint**，用白色（增加阴影）或黑色（去除阴影）绘制。
 - **高光：** 创建一个 **Invert** 设为 1 的图层，并将混合模式设为 **Screen**（滤色）。
+
+<p align="center"><img src="docs/layers.png" alt="一层阴影与添加第二层阴影和高光的对比（示意图）" width="100%"></p>
+
+左：一层阴影。右：添加了第二层阴影（Shadow Amount 0.22）和高光（Invert 1、Screen）。（图片仅为示意）
 
 ## 6. 常见问题
 

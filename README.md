@@ -14,12 +14,25 @@ Just drop it into a layer mask.
 
 ---
 
+## Preview
+
+<p align="center"><img src="docs/demo.gif" alt="How the shadow changes as you move the parameters (illustration)" width="640"></p>
+
+<p align="center"><img src="docs/breakdown.png" alt="Base color → shadow mask → multiplied result (illustration)" width="100%"></p>
+
+From left: base color only, the black-and-white mask this generator creates (white = shadow), and the result of a Multiply shadow layer using that mask.
+
+> **Note: these images are illustrations.** They are not screenshots or output of Substance 3D Painter; they were made for this manual by reproducing the behavior of the parameters described here. Actual results depend on your model, baked maps and settings. The control panel on the right and the black outline on the model were also drawn for illustration and are not features of this generator.
+
+---
+
 ## 1. Included files
 
 | File | Description |
 |---|---|
 | `gyogy6_toon_shadow_mask.sbsar` | The generator |
 | `docs/icon.png` | Icon image for this manual (the same icon is built into the .sbsar) |
+| `docs/demo.gif`, `docs/breakdown.png`, `docs/layers.png` | Illustration images for this manual |
 | `README.md` and others | This manual (English, Japanese, Chinese, Korean) |
 | `LICENSE.md` | Terms of use |
 
@@ -82,6 +95,10 @@ This generator uses the mesh maps baked by Painter.
 - **Add a darker second shade:** create another layer the same way with a small **Shadow Amount (0.1–0.3)**.
 - **Fix by hand:** in the mask, add a **Paint** effect above the generator and paint white (add shadow) or black (remove shadow).
 - **Highlights:** create a layer with **Invert** set to 1 and use the **Screen** blend mode.
+
+<p align="center"><img src="docs/layers.png" alt="One shadow vs. second shade and highlight added (illustration)" width="100%"></p>
+
+Left: one shadow layer. Right: a second shade (Shadow Amount 0.22) and a highlight (Invert 1, Screen) added. (Illustration)
 
 ## 6. Troubleshooting
 
