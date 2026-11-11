@@ -8,7 +8,7 @@ The Japanese version is the official text. Other languages are translations for 
 ## 製品別補足（日本語・正本）
 
 対象製品：gyogy6 Anime Shadow Mask（無料版） v1.0.0
-適用する共通規約：gyogy6 ツール利用規約 バージョン 1.0
+適用する共通規約：gyogy6 ツール利用規約 バージョン 1.1
 
 1. **対象ファイル**：`gyogy6_anime_shadow_mask.sbsar`、README 一式、本書。
 2. **価格と利用範囲**：無料です。利用人数・台数の制限はありません。個人・法人、商用・非商用を問わず利用できます。
@@ -24,7 +24,7 @@ The Japanese version is the official text. Other languages are translations for 
 ## Product Supplement (English)
 
 Product: gyogy6 Anime Shadow Mask (Free) v1.0.0
-Common terms applied: gyogy6 Tool Terms of Use, version 1.0
+Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 
 1. **Covered files**: `gyogy6_anime_shadow_mask.sbsar`, the README files and this document.
 2. **Price and scope**: Free of charge. No limit on the number of users or machines. May be used by individuals and legal entities, for commercial and non-commercial purposes.
@@ -40,7 +40,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.0
 ## 产品补充条款（简体中文）
 
 适用产品：gyogy6 Anime Shadow Mask（免费版）v1.0.0
-适用的通用条款：gyogy6 工具使用条款 版本 1.0
+适用的通用条款：gyogy6 工具使用条款 版本 1.1
 
 1. **适用文件**：`gyogy6_anime_shadow_mask.sbsar`、README 文件及本文件。
 2. **价格与使用范围**：免费。不限使用人数和设备数量。个人和法人均可使用，商业及非商业用途均可。
@@ -56,7 +56,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.0
 ## 제품별 보충 조항（한국어）
 
 대상 제품: gyogy6 Anime Shadow Mask (무료판) v1.0.0
-적용되는 공통 약관: gyogy6 툴 이용약관 버전 1.0
+적용되는 공통 약관: gyogy6 툴 이용약관 버전 1.1
 
 1. **대상 파일**: `gyogy6_anime_shadow_mask.sbsar`, README 파일 및 본 문서.
 2. **가격 및 이용 범위**: 무료입니다. 이용 인원 및 기기 수의 제한은 없습니다. 개인과 법인, 상업적·비상업적 용도를 불문하고 이용할 수 있습니다.
@@ -73,7 +73,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.0
 
 ## gyogy6 ツール利用規約（日本語・正本）
 
-バージョン 1.0（2026-11-10 制定）
+バージョン 1.1（2026-11-10 制定、2026-11-11 改定）
 
 ### 第1条（適用）
 
@@ -139,7 +139,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.0
 ### 第9条（免責）
 
 1. 本ツールの利用または利用できないことにより生じた損害について、権利者は責任を負いません。ただし、権利者の故意または重大な過失による場合を除きます。
-2. 権利者が責任を負う場合でも、その範囲は利用者に現実に生じた通常の損害に限り、上限は利用者が当該製品に支払った金額とします。
+2. 権利者が責任を負う場合でも、その範囲は利用者に現実に生じた通常の損害に限り、上限は利用者が当該製品に支払った金額とします。ただし、権利者の故意または重大な過失による場合は、この限りではありません。
 
 ### 第10条（サポートとアップデート）
 
@@ -176,7 +176,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.0
 
 ## gyogy6 Tool Terms of Use (English, reference translation)
 
-Version 1.0 (established 2026-11-10)
+Version 1.1 (established 2026-11-10, revised 2026-11-11)
 
 > This is a translation for reference. The Japanese version is the official text. If the versions differ, the Japanese version prevails.
 
@@ -244,7 +244,7 @@ The Tool is provided "as is". The Licensor does not warrant its operation, accur
 ### Article 9 (Limitation of Liability)
 
 1. The Licensor is not liable for any damage arising from the use of, or inability to use, the Tool, except in cases of willful misconduct or gross negligence by the Licensor.
-2. Even where the Licensor is liable, liability is limited to ordinary damage actually incurred by the User, up to the amount the User paid for the product.
+2. Even where the Licensor is liable, liability is limited to ordinary damage actually incurred by the User, up to the amount the User paid for the product. This limitation does not apply where the damage is caused by the Licensor's willful misconduct or gross negligence.
 
 ### Article 10 (Support and Updates)
 
@@ -281,7 +281,7 @@ Please contact the Licensor through the messaging feature of an Official Distrib
 
 ## gyogy6 工具使用条款（简体中文，参考译文）
 
-版本 1.0（2026-11-10 制定）
+版本 1.1（2026-11-10 制定，2026-11-11 修订）
 
 > 本文为参考译文，正式文本为日语版。如各语言版本之间存在差异，以日语版为准。
 
@@ -349,7 +349,7 @@ Please contact the Licensor through the messaging feature of an Official Distrib
 ### 第9条（免责）
 
 1. 对于因使用或无法使用本工具而产生的损害，权利人不承担责任。但因权利人故意或重大过失造成的情形除外。
-2. 即使权利人需承担责任，其范围也仅限于用户实际遭受的通常损害，且以用户为该产品支付的金额为上限。
+2. 即使权利人需承担责任，其范围也仅限于用户实际遭受的通常损害，且以用户为该产品支付的金额为上限。但因权利人的故意或重大过失造成的损害除外。
 
 ### 第10条（支持与更新）
 
@@ -386,7 +386,7 @@ Please contact the Licensor through the messaging feature of an Official Distrib
 
 ## gyogy6 툴 이용약관 (한국어, 참고 번역)
 
-버전 1.0 (2026-11-10 제정)
+버전 1.1 (2026-11-10 제정, 2026-11-11 개정)
 
 > 이 문서는 참고용 번역입니다. 정본은 일본어판이며, 언어판 사이에 차이가 있는 경우 일본어판이 우선합니다.
 
@@ -454,7 +454,7 @@ Please contact the Licensor through the messaging feature of an Official Distrib
 ### 제9조 (면책)
 
 1. 본 툴의 이용 또는 이용 불능으로 인해 발생한 손해에 대해 권리자는 책임을 지지 않습니다. 단, 권리자의 고의 또는 중대한 과실에 의한 경우는 제외합니다.
-2. 권리자가 책임을 지는 경우에도 그 범위는 이용자에게 실제로 발생한 통상의 손해로 한정되며, 상한은 이용자가 해당 제품에 지불한 금액으로 합니다.
+2. 권리자가 책임을 지는 경우에도 그 범위는 이용자에게 실제로 발생한 통상의 손해로 한정되며, 상한은 이용자가 해당 제품에 지불한 금액으로 합니다. 다만, 권리자의 고의 또는 중대한 과실로 인한 경우에는 그러하지 아니합니다.
 
 ### 제10조 (지원 및 업데이트)
 
